@@ -1,0 +1,40 @@
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: #332929;
+}
+h2{
+text-align: center;
+font-size: 25px;
+font-family: fantasy;
+color: rgb(51, 48, 48);
+}
+img {
+    text-align: right;
+    width: 600px;
+    height: 20;
+display: block;
+margin: auto;
+}
+h3{
+    text-align: center;
+    font-family:Cursive;
+    font-size: 25px;
+}
+div{
+    font-size: 28px;
+    text-align: center;
+    font: optional;
+    font-family: Georgia;
+}
+li{
+    font-size: 22px;
+    font: optional;
+}
+h5{
+    font-style: unset;
+    font-size: 30px;
+}
